@@ -29,6 +29,6 @@
     "extends": "gama"
   },
   "dependencies": {
-    "gamapack": "0.0.1"
+    "gamapack": "0.0.2"
   }
 }
