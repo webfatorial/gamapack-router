@@ -1,0 +1,34 @@
+{
+  "name": "gamapack-router",
+  "version": "0.0.0",
+  "description": "Gamapack-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint **/*.js --ignore-pattern node_modules/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webfatorial/gamapack-router.git"
+  },
+  "keywords": [
+    "Gamajs",
+    "Gamapack",
+    "Gamapack-router"
+  ],
+  "author": "webfatorial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webfatorial/gamapack-router/issues"
+  },
+  "homepage": "https://github.com/webfatorial/gamapack-router#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-gama": "0.0.1"
+  },
+  "eslintConfig": {
+    "extends": "gama"
+  },
+  "dependencies": {
+    "gamapack": "0.0.1"
+  }
+}
